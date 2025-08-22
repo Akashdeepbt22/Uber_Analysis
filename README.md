@@ -3,7 +3,7 @@
 🧭 Why This Case Study Matters
 
 This case study was built not as an academic task, but as a real-world simulation of how a strategist or product team would evaluate Uber’s performance in a local market, identify deep inefficiencies, and build a high-potential product in response.
-The target? Egyptian university students – a demographic heavily underserved in transport reliability, safety, and affordability.
+The target? Indian university students – a demographic heavily underserved in transport reliability, safety, and affordability.
 
 
 ## 🧠 The Problem That Started It All
@@ -23,12 +23,12 @@ People were tired of:
 
 
 
-## 💼 SWOT Analysis – Uber in Egypt
+## 💼 SWOT Analysis – Uber in INDIA.
 
 To assess Uber’s strategic position in the Egyptian market, we conducted a full **SWOT analysis**
 
 
-<img width="1024" height="768" alt="SWOT Analysis for uber(3)" src="https://github.com/user-attachments/assets/1ad90499-488c-4d61-8471-199ee307f7a0" />
+<img width="1024" height="768" alt="SWOT Analysis for uber(3)" src="https://github.com/Akashdeepbt22/Uber_Analysis/blob/main/SWOT%20Analysis%20for%20uber1.png?raw=true" />
 
 
 
@@ -36,20 +36,27 @@ To assess Uber’s strategic position in the Egyptian market, we conducted a ful
 
 We compared how Uber expanded in:
 - 🇺🇸 **USA**: Structured, premium-oriented, policy-flexible  
-- 🇪🇬 **Egypt**: Crowded streets, price-sensitive users, cultural complexity
+- 🇪🇬 **INDIA**: Crowded streets, price-sensitive users, cultural complexity
 
 We analyzed:
 - Entry strategy
 - Market fit challenges
 - Local adaptations
+  
+This reflects Uber’s actual India market entry and adaptations:
 
-<img width="1920" height="1080" alt="GO TO MARKET uber(3)" src="https://github.com/user-attachments/assets/af8dc8da-a8a8-4c95-875f-78b0335d96d2" />
+- Started premium but quickly realized India is price-sensitive.
+- Had to add cash payments (first non-card country).
+- Local language support was key for adoption.
+- Targeted urban youth + professionals, then expanded wider.
+
+<img width="1920" height="1080" alt="GO TO MARKET uber(3)" src="https://github.com/Akashdeepbt22/Uber_Analysis/blob/main/GO%20TO%20MARKET%20uber.png?raw=true" />
 
 
 
 ## 👣 Understanding the User Journey
 
-To build a relevant solution, we needed to **step into the shoes** of Egyptian Uber users.
+To build a relevant solution, we needed to **step into the shoes** of Indian Uber users.
 
 We mapped out:
 - What happens from opening the app → booking → arriving → paying  
@@ -87,13 +94,13 @@ We wanted to **simulate real-world ride behavior**, so we:
 - Created datasets based on local ride patterns  
 - Analyzed KPIs like distance, peak hours, and car types  
 - Built a live dashboard for decision-making
-<img width="1199" height="799" alt="Dashboard" src="https://github.com/user-attachments/assets/45e9cf6c-21eb-4554-9b20-1ac6dca24db9" />
+<img width="1199" height="799" alt="Dashboard" src="https://github.com/Akashdeepbt22/Uber_Analysis/blob/main/dashboard.png?raw=true" />
 
 
 ## 💡 The Innovation: Uber UniCard
 
 We translated our research into a **concrete product idea**:  
-🚍 **Uber UniCard** – A subscription model tailored to Egyptian students.
+🚍 **Uber UniCard** – A subscription model tailored to Indian students.
 
 It includes:
 -  Fixed weekly/monthly ride credits  
@@ -117,7 +124,7 @@ We built a **Go-To-Market (GTM)** plan:
 ## 🧠 Summary of the Journey
 
  We didn’t start with a product — we started with a **real user problem**  
- We explored **how Uber entered & adapted** to Egypt  
+ We explored **how Uber entered & adapted** to India.  
  We **mapped the experience** and **understood the user**  
  We simulated the market through **realistic data**  
  We proposed a **product** that can truly make a difference
