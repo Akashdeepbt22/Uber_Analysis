@@ -1,4 +1,4 @@
-## 🚀 Uber Egypt – Full Strategic Rebuild & Product Innovation Case Study
+## 🚀 Uber India – Full Strategic Rebuild & Product Innovation Case Study
 
 🧭 Why This Case Study Matters
 
